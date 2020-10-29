@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Haberler</string>
+
+    <!-- Common -->
+    <string name="OK">Tamam</string>
+    <string name="TRY_AGAIN">Tekrar Dene</string>
+    <string name="CHANGE">Değiştir</string>
+    <string name="YES">Evet</string>
+    <string name="ForgotPassword">Şifremi Unuttum</string>
+
+    <!-- Constants -->
+    <string name="alert_type_done_icon">DoneIcon.json</string>
+    <string name="alert_type_warning_icon">WarningIcon.json</string>
+    <string name="alert_type_info_icon">InfoIcon.json</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Server -->
+    <string name="ERROR">İnternete bağlanılamıyor. Lütfen bağlantı ayarlarınızı kontrol edin</string>
+    <string name="INTERNET_ERROR">Bir hata oluştu. Lütfen tekrar deneyin</string>
+    <string name="UNAUTHORIZED">Kullanıcı bulunamadı.Lütfen kullanıcı bilgilerinizi kontrol ederek tekrar deneyin</string>
+    <string name="USER_NOT_FOUND">Kullanıcı bulunamadı.Lütfen kullanıcı bilgilerinizi kontrol ederek tekrar deneyin</string>
+    <string name="VERIFICATION_CODE_EXPIRED">Girdiğiniz kodun süresi dolmuştur. Tekrar kod isteyin.</string>
+    <string name="DEFAULT_CARD_DELETED_ERROR">Güncel kartınızı silemezsiniz</string>
+    <string name="DEFAULT_ADDRESS_DELETED_ERROR">Güncel adresinizi silemezsiniz</string>
+    <string name="USER_ALREADY_EXIST">Bu kullanıcı zaten kayıtlı</string>
+    <string name="BASKET_MIN_FEE_ERROR">Sepetiniz minimum tutarın üzerinde olmalıdır. Lütfen sepetinizi kontrol edin.</string>
+    <string name="INVALID_VERIFICATION_CODE">Girdiğiniz kod yanlıştır. Lütfen tekrar deneyin.</string>
+    <string name="METROPOL_USER_NOT_FOUND">Bu numaraya ait kayıtlı bir metropol kartı bulunmamaktadır.Lütfen kart numarasını kontrol ederek tekrar deneyin.</string>
+    <string name="METROPOL_CARD_ALREADY_EXIST">Bu kart zaten kayıtlı</string>
+    <string name="METROPOL_ERROR">Girdiğiniz kod yanlıştı. Lütfen tekrar deneyin.</string>
+    <string name="CARD_NOT_FOUND">İşleminize devam etmek için lütfen bir kredi kartı ekleyin.</string>
+
+
+</resources>
